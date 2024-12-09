@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Developer_GT06_Sheet_V1.1.0_Nov2023.PcbDoc   8/29/2023  1:22:04 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Developer_GT06_Sheet_V1.1.0_Nov2023-Plated.TXT
+EIA File   : Developer_GT06_Sheet_V1.1.0_Nov2023.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             1175      PTH        157.77inch (4007.31mm)
+T2      39mil (1mm)                                               Round             250       PTH        65.04inch (1651.89mm)
+T3      81mil (2.05mm)                                            Round             8         PTH        32.46inch (824.55mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1433
+
+Total Processing Time (hh:mm:ss) : 00:00:01

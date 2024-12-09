@@ -1,0 +1,15 @@
+Source PCB Design Developer_GT06_Sheet_V1.1.0_Nov2023.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Developer_GT06_Sheet_V1.1.0_Nov2023-Plated.TXT]
+   Generated File[Developer_GT06_Sheet_V1.1.0_Nov2023.DRL]
+   Generated File[Developer_GT06_Sheet_V1.1.0_Nov2023.LDP]
+   Generated File[Developer_GT06_Sheet_V1.1.0_Nov2023.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:22:05 PM On 8/29/2023
