@@ -41,5 +41,5 @@ The GT06 is a popular GPS tracking device used in fleet and personal vehicle mon
 
 * Integration with relay modules for physical door control
 
-🚀 Project Outcome
+# 🚀 Project Outcome
 The upgraded GT06 tracker was successfully deployed in vehicle tracking systems, providing enhanced security through remote SMS control and real-time alerts. These custom features made the device more versatile for use in personal and commercial vehicles.
